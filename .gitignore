@@ -2,3 +2,6 @@
 *.bin
 /example_test
 /.idea
+/.models
+/.vscode
+.nvim
